@@ -1,6 +1,6 @@
 Hi!✨
 
-I am Yana, a doctoral candidate at Oxford Control Group. My research focuses on developing efficient, high-fidelity methods for simulation and optimization-based control. I also apply these techniques for aerospace systems 🚀. My academic background is actually in both aerodynamics ✈️ and control 👩‍💻.
+I am Yana, a doctoral candidate at the Oxford Control Group. My research focuses on developing efficient, high-fidelity methods for simulation and optimization-based control. I also apply these techniques for aerospace systems 🚀. My academic background is  in aerodynamics ✈️ and control 👩‍💻.
 
 You can find my publications here 🛠️: https://scholar.google.com/citations?user=VM4WppgAAAAJ&hl=en&oi=ao
 
