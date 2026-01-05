@@ -7,5 +7,5 @@ My academic background is in engineering, mainly aerodynamics ✈️ and control
 
 You can find my publications here 🛠️: https://scholar.google.com/citations?user=VM4WppgAAAAJ&hl=en&oi=ao
 
-Most of my repositories are private or confidential, but I’m always happy to discuss the methods and experiments presented in my papers — feel free to reach out.
+Most of my repositories are private or confidential, but I’m always happy to discuss the methods and experiments presented in my papers! Feel free to reach out.
 You can also find me on LinkedIn 💬: www.linkedin.com/in/yana-lishkova-085138203
