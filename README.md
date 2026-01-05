@@ -1,7 +1,7 @@
 Hi! ✨
 I’m Yana.
 
-I recently completed my PhD with the Oxford Control Group and moved to sunny California to work as a postdoctoral researcher for AMBER Lab 🤖 at the California Institute of Technology (Caltech).
+I recently completed my PhD with the Oxford Control Group and moved to sunny California to work as a postdoctoral researcher for AMBER Lab 🤖 at Caltech.
 
 My academic background is in engineering, mainly aerodynamics ✈️ and control 👩‍💻. My research focuses on developing efficient, high-fidelity methods for safe optimization-based control, also with applications in aerospace systems 🚀, particularly safe spacecraft autonomy.  
 
